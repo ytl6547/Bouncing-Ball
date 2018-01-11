@@ -1,4 +1,7 @@
 Run "bouncing ball.py"
+Goal: kick the ball to the goal area
+Player1: wasd
+Player2: 4 arrow buttons
 
 Required libraries:
 Tkinter
