@@ -1,3 +1,5 @@
+Run "bouncing ball.py"
+
 Required libraries:
 Tkinter
 Pillow: download directly via Preferences -> Project -> Project Interpreter in PyCharm
