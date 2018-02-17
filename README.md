@@ -1,2 +1,2 @@
 # Bouncing-Ball
-The bouncing ball game
+A bouncing ball game
